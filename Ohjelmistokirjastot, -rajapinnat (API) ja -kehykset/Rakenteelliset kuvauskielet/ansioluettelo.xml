@@ -1,0 +1,43 @@
+<ansioluettelo>
+    <hakija>
+        <etunimi>Pertti</etunimi>
+        <sukunimi>Huhtala</sukunimi>
+        <katuosoite>Ahlströminkatu 51</katuosoite>
+        <postinumeroja-toimipaikka>80007 Joensuu</postinumeroja-toimipaikka>
+        <puhelinnumero>040 433 0404</puhelinnumero>
+        <sahkopostiosoite>PerttiHuhtala@gmail.com</sahkopostiosoite>
+        <syntymaaika>10.8.1985</syntymaaika>
+    </hakija>
+    <tyokokemus>
+        <alkamisaika>2009</alkamisaika>
+        <loppumisaika>2012</loppumisaika>
+        <yritys>Google</yritys>
+        <tyonimike>Ohjlemistokehittaja</tyonimike>
+        <kuvaustyopaikasta>kayttoliittyman kehittaja</kuvaustyopaikasta>
+    </tyokokemus>
+    <koulutus>
+        <tutkinnottaikurssit>
+            <alkamisaika>1992</alkamisaika>
+            <loppumisaika>2005</loppumisaika>
+            <nimi>Tieto ja viestintätekniikka</nimi>
+            <oppilaitos>Omnia</oppilaitos>
+        </tutkinnottaikurssit>
+    </koulutus>
+    <kielitaito>
+        <kieli>
+            <nimi>Suomi</nimi>
+            <osaamistaso>hyvä</osaamistaso>
+        </kieli>
+        <kieli>
+            <nimi>Englanti</nimi>
+            <osaamistaso>hyvä</osaamistaso>
+        </kieli>
+    </kielitaito>
+    <IT-osaaminen>
+        <teknologia>
+            <nimi>Cyberturvallisuus</nimi>
+            <taitotaso>hyvä</taitotaso>
+            <kuvaus>Kyberturvallisuutta voi opiskella erityisesti tieto- ja viestintätekniikan akkreditoidussa insinööri AMK-tutkinto-ohjelmassa sekä englanninkielisessä Cyber Security ylemmässä AMK-tutkinto-ohjelmassa.</kuvaus>
+        </teknologia>
+    </IT-osaaminen>
+</ansioluettelo>

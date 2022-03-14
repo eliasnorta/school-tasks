@@ -1,0 +1,21 @@
+{
+	"nimi": "ZoneOfWar",
+	"julkaisija": "Adem and Elias",
+	"julkaisupaiva": [
+	{
+		"alue": "EU",
+		"pvm": "30.12.2021"
+	},
+	{
+		"alue": "NA",
+		"pvm": "-"
+	}
+	],
+	"genre": "First-person shooter",
+	"lisaosat": [
+	{
+		"nimi": "-",
+		"kuvaus": "Zone of War is a futuristic first-person shooter strategy game where you need to solve problems and progress through the storyline. You can play with your friends solving problems and have fun together!"
+	}
+	]
+}

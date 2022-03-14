@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="pelihahmo.css"?>
+
+<hahmo>
+    <perustiedot>
+        <nimi>Faye</nimi>
+        <rotu>ihminen</rotu>
+        <sukupuoli>nainen</sukupuoli>
+        <ika>19</ika>
+    </perustiedot>
+    <ominaisuuspisteet>
+        <str>12</str>
+        <agi>15</agi>
+        <vit>12</vit>
+        <int>13</int>
+        <chr>10</chr>
+        <spd>11</spd>
+    </ominaisuuspisteet>
+    <hyokkaystaidot>
+        <att>40</att>
+        <acc>85</acc>
+        <def>30</def>
+        <eva>45</eva>
+        <meva>40</meva>
+    </hyokkaystaidot>
+    <perhesuhteet>
+        <isa>
+            <nimi>Evan</nimi>
+            <ika>55</ika>
+            <elossa>kuollut</elossa>
+        </isa>
+        <aiti>
+            <nimi>Jean</nimi>
+            <ika>50</ika>
+            <elossa>kuollut</elossa>
+        </aiti>
+        <sisarukset>
+            <sisarus>
+                <nimi>Renald</nimi>
+                <ika>19</ika>
+                <sukupuoli>mies</sukupuoli>
+                <elossa>elossa</elossa>
+                <tyyppi>kaksoisveli</tyyppi>
+            </sisarus>
+            <sisarus>
+                <nimi>Marie</nimi>
+                <ika>25</ika>
+                <sukupuoli>nainen</sukupuoli>
+                <elossa>elossa</elossa>
+                <tyyppi>sisar (ei biologinen)</tyyppi>
+            </sisarus>
+        </sisarukset>
+    </perhesuhteet>
+    <kuvaus>Faye ja hanen veljensa Renald syntyivat verikuun aikaan„ ja heidan setansa - joka pelkasi ennustusta jonka mukaan verikuun aikaan syntynyt lapsi suistaisi 
+hanet vallasta - olisi tappanut heidat valittomasti ellei heidan aitinsa olisi lahettanyt heita pakoon uskollisten palvelijoidensa Evanin ja Jeanin mukana. Faye ei tieda syntyperastaan mitaan eika mytiskafin miksi ihmiset, joita him piti oikeina vanhempinaan, tapettiin ja heidan kotinsa poltettiin hanen ollessaan 10- 
+tieda syntyperastaan mitaan eika mytiskafin miksi ihmiset, joita him piti oikeina vanhempinaan, tapettiin ja heidan kotinsa poltettiin hanen ollessaan 10- 
+vuotias.</kuvaus>
+</hahmo>
+   

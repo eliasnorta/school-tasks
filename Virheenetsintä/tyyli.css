@@ -1,0 +1,55 @@
+* {
+	box-sizing: border-box;
+}
+
+#sailio {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #064516;
+	padding: 5px;
+}
+
+#otsake {
+	text-align: center;
+	padding: 30px;
+	background-color: #99bda2;
+	color: #064516;
+}
+
+#navi #naviluettelo {
+	width: 100%;
+	list-style: none;
+    background-color: #064516;
+    margin: 0;
+    padding: 0;
+}
+
+#navi #naviluettelo li {
+	width: 20%;
+	padding: 5px;
+	float: left;
+	text-align: center;
+}
+
+#navi #naviluettelo::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+#navi #naviluettelo a {
+	color: #99bda2;
+	display: block;
+}
+
+#sisalto {
+	padding: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+	#navi #naviluettelo li {
+		width: 100%;
+		float: none;
+	}
+}

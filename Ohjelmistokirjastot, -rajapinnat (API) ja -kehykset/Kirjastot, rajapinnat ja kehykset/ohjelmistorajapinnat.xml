@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel>
+    <title>Ilmatieteen laitoksen varoitukset</title>
+    <link>https://www.ilmatieteenlaitos.fi/varoitukset</link>
+    <description>Ilmatieteen laitoksen avoimen datan (CAP) voimassa olevat varoitukset 0-5 vuorokautta</description>
+    <language>fi-FI</language>
+    <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+    <item>
+      <title>POISTETTU: Keltainen liikennesää: Paikoin Lapin itäosa, to 13.00 - 23.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.176321802507427994214966434732693633230.xml</link>
+      <description>POISTETTU: Liikennesää: Ajokeli muuttuu huonoksi iltapäivästä alkaen lumisateen ja lumisten teiden vuoksi.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.176321802507427994214966434732693633230</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Suomenlahti, to 20.00 - pe 0.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.245637048173293255502043775946292511103.xml</link>
+      <description>Huomautus veneilijöille: Lounaistuulta iltayöllä 12 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.245637048173293255502043775946292511103</guid>
+    </item>
+    <item>
+      <title>Keltainen liikennesää: Pohjois-Lappi, su 3.00 - 11.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.59704302680253252887071570853721185273.xml</link>
+      <description>Liikennesää: Huonon ajokelin todennäköisyys on 30 % lauantain ja sunnuntain välisestä yöstä sunnuntaipäivään lumisateen vuoksi.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.59704302680253252887071570853721185273</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Merenkurkku ja Perämeren eteläosa, to 13.00 - 20.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.156143063153549613119807670189984272858.xml</link>
+      <description>Huomautus veneilijöille: Etelän ja lounaan välistä tuulta aluksi 12 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.156143063153549613119807670189984272858</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Perämeren pohjoisosa, to 11.38 - 18.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.149050985748516256929263577927075145682.xml</link>
+      <description>Huomautus veneilijöille: Kaakkoistuulta aluksi 12 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.149050985748516256929263577927075145682</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, to 15.00 - pe 5.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.189675492423022914216386172306021709251.xml</link>
+      <description>Huomautus veneilijöille: Lounaistuulta aluksi 12 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.189675492423022914216386172306021709251</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Suomenlahti, pe 0.00 - 17.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.766510759345967462389330518255475605.xml</link>
+      <description>Kovan tuulen varoitus: Lounaistuulta keskiyöstä alkaen 14 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.766510759345967462389330518255475605</guid>
+    </item>
+    <item>
+      <title>Keltainen liikennesää: Lappi sekä paikoin Pohjois-Pohjanmaa, to 11.38 - 23.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.214986722517936250653142818896783538838.xml</link>
+      <description>Liikennesää: Ajokeli on huono aluksi lumisateen ja lumisten teiden vuoksi.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.214986722517936250653142818896783538838</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Merenkurkku, ma 14.00 - 23.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.320359512864917804498831514628356502043.xml</link>
+      <description>Kovan tuulen varoitus: Kovan etelätuulen todennäköisyys on 30 % maanantaina päivällä ja illalla.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.320359512864917804498831514628356502043</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Paikoin kaikki merialueet, ma 8.00 - 23.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.99789346878525463255127968258123589415.xml</link>
+      <description>Kovan tuulen varoitus: Kovan etelän ja kaakon välisen tuulen todennäköisyys on 30 % maanantaiaamusta maanantain ja tiistain väliseen yöhön.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.99789346878525463255127968258123589415</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Selkämeren pohjoisosa, pe 8.00 - 15.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.179415672108685095657289676558731799221.xml</link>
+      <description>Kovan tuulen varoitus: Lounaistuulta päivällä 14 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.179415672108685095657289676558731799221</guid>
+    </item>
+    <item>
+      <title>Keltainen tuulivaroitus merelle: Pohjois-Itämeren itäosa, pe 8.00 - 19.00</title>
+      <link>https://alerts.fmi.fi/cap/2021/10-28/08-38-52Z/2.49.0.1.246.0.0.2021.25951132.10246849922004049483123278362287905976.xml</link>
+      <description>Kovan tuulen varoitus: Lounaistuulta päivällä 14 m/s.</description>
+      <category>MET</category>
+      <pubDate>Thu, 28 Oct 2021 08:38:52 GMT</pubDate>
+      <author>cap@fmi.fi (Ilmatieteen laitos)</author>
+      <guid isPermaLink="false">urn:oid:2.49.0.1.246.0.0.2021.25951132.10246849922004049483123278362287905976</guid>
+    </item>
+  </channel>

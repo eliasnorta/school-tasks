@@ -1,0 +1,133 @@
+
+
+perustiedot, ominaisuuspisteet, hyokkaystaidot, perhesuhteet, kuvaus {
+	display: block;
+	border: solid 2px gray;
+	margin: 5px;
+	padding: 5px;
+}
+
+perustiedot *, ominaisuuspisteet *, hyokkaystaidot *, perhesuhteet isa, perhesuhteet aiti, perhesuhteet sisarukset{
+	display: block;
+}
+
+ominaisuuspisteet {
+	width: 45%;
+	float: left;
+}
+
+hyokkaystaidot {
+	width: 48%;
+	float: right;
+}
+
+perhesuhteet {
+	clear: both;
+}
+
+perustiedot nimi::before {
+	content: "Nimi: ";
+	font-weight: bold;
+}
+
+perustiedot rotu::before {
+	content: "Rotu: ";
+	font-weight: bold;
+}
+
+perustiedot sukupuoli::before {
+	content: "Sukupuoli: ";
+	font-weight: bold;
+}
+
+perustiedot ika::before {
+	content: "Ikä: ";
+	font-weight: bold;
+}
+
+ominaisuuspisteet str::before {
+	content: "STR: ";
+	font-weight: bold;
+}
+
+ominaisuuspisteet agi::before {
+	content: "AGI: ";
+	font-weight: bold;
+}
+
+ominaisuuspisteet vit::before {
+	content: "VIT: ";
+	font-weight: bold;
+}
+
+ominaisuuspisteet int::before {
+	content: "INT: ";
+	font-weight: bold;
+}
+
+ominaisuuspisteet chr::before {
+	content: "CHR: ";
+	font-weight: bold;
+}
+
+ominaisuuspisteet spd::before {
+	content: "SPEED: ";
+	font-weight: bold;
+}
+
+hyokkaystaidot att::before {
+	content: "ATT: ";
+	font-weight: bold;
+}
+
+hyokkaystaidot acc::before {
+	content: "ACC: ";
+	font-weight: bold;
+}
+
+hyokkaystaidot def::before {
+	content: "DEF: ";
+	font-weight: bold;
+}
+
+hyokkaystaidot eva::before {
+	content: "EVA: ";
+	font-weight: bold;
+}
+
+hyokkaystaidot meva::before {
+	content: "M.EVA: ";
+	font-weight: bold;
+}
+
+perhesuhteet isa::before {
+	content: "Isä: ";
+	font-weight: bold;
+}
+
+perhesuhteet aiti::before {
+	content: "Äiti: ";
+	font-weight: bold;
+}
+
+perhesuhteet sisarukset::before {
+	content: "Sisarukset: ";
+	font-weight: bold;
+}
+
+sisarus {
+	display: list-item;
+	margin-left: 20px;
+}
+
+isa ika::before, aiti ika::before, sisarus ika::before {
+	content: "(";
+}
+
+isa ika::after, aiti ika::after, sisarus ika::after, sisarus elossa::after, sisarus sukupuoli::after {
+	content: ",";
+}
+
+isa elossa::after, aiti elossa::after, sisarus tyyppi::after {
+	content: ")";
+}

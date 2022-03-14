@@ -1,0 +1,23 @@
+Tietoturvakoodaus muistilista:
+
+Ei pidä antaa liikaa oikeuksia kenellekkään.
+
+Tietokantaohjelmiston pääkäyttäjänä (root) yksittäisen tietokannan käyttäminen ohjemistosta käsin ei kannata.
+
+Jos ohjelmisto ei tarvitse käyttöjärjestelmän pääkäyttäjätunnuksia, älä vaadi niitä
+
+Jos sovellukseen pitää kirjautua, tarkista session olemassaolo
+joka sivulla.
+
+Piilota kansioiden sisältö, kenenkään kävijän ei tarvitse saada
+näkyviinsä palvelimen tiedostolistaa.
+
+Käyttäjätunnuksia ja salasanoja ei missään tapauksessa saa kovakoodata
+käyttäjän näkyvillä olevaan koodiin.
+
+On hyvä pitää kaikki mahdollisimman simppelinä. Monimutkaisempaa systeemiä on vaikea hallita, sekä siinä on useampia kohtia, joita hyökkääjä voisi mahdollisesti hyödyntää.
+
+Suojaus kannattaa toteuttaa useammassa kerroksessa kuin vain yhdessä. Hyökkääjä voi onnistua murtamaan yhden komponentin.
+
+Salasanat tulee tallennettaa salattuna yksisuuntaisella salauksella.
+
